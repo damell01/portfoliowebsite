@@ -780,7 +780,8 @@ img.grayscale:hover {
 	align-content: space-around;
 	margin:0;
 	padding:0;
-	height:auto;
+	height:130px;
+	margin-bottom:19px
 }
 .projects-links {
     margin: 0;
